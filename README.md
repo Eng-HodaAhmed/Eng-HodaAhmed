@@ -15,6 +15,7 @@ Skills:
 * EF CORE
 * ASP.NET
 
+
 - 🔭 I’m currently working on updating CREWINGO website.  www.crewingo.com 
 - 🌱 I’m currently learning ASP.NET 
 
