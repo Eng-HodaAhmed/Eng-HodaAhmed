@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Hoda
 #### I am a software developer
-[I am a software developer]
 Skills: 
 * HTML
 * CSS
